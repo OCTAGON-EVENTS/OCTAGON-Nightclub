@@ -1,0 +1,375 @@
+T: Have you ever lied to your best friend? @general
+T: What is the most embarrassing thing that has ever happened to you? @nsfw
+T: What is your biggest fear? @general
+T: What is the most embarrassing thing you’ve ever done? @nsfw
+T: What’s a secret you’ve never told anyone? @general
+T: What is your biggest fantasy? @general
+T: When was the last time you cried? @general
+T: {currentPlayer}, what's your first impression of {player}? @general
+T: If you had to be handcuffed to {player} for a day, how would you spend it? @general
+T: What's one thing you admire about {player} and one thing that drives you crazy? @general
+T: If {player} was a superhero, what would their superpower be and why? @nsfw
+T: {currentPlayer}, if you could trade lives with {player} for a day, would you? Why or why not? @general
+T: What's the funniest thing you've seen {player} do? @general
+T: If {player} was an animal, what animal do you think they would be and why? @general
+T: {currentPlayer}, if you and {player} were the last two people on Earth, what's the first thing you'd do together? @general
+T: What's one piece of advice you'd like to give to {player}? @general
+T: If you could change one thing about {player}, what would it be? @general
+T: What is the biggest lie you’ve ever told? @general
+T: What is the most embarrassing photo of you? @nsfw
+T: What would you do if you were the opposite gender for a week? @general
+T: What do most people assume about you that isn’t true? @nsfw
+T: What are your thoughts on reincarnation? @general
+T: What is the stupidest thing you ever did as a teenager? @general
+T: Have you ever broken the law? @general
+T: What’s your biggest regret? @general
+T: Who do you have a crush on? @general
+T: What was the most awkward date you ever went on? @general
+T: What is one item you hope nobody ever finds in your room? @general
+T: Have you ever stolen something? @general
+T: Have you ever cheated on an exam? @general
+T: Tell the story of the drunkest you’ve ever been. @general
+T: How old were you when you first tried alcohol? @general
+T: What is the silliest thing you feel emotionally attached to? @general
+T: What is the biggest mistake you’ve ever made? @general
+T: Have you ever played hooky at work? @general
+T: Have you ever lied to get out of an awkward date? @general
+T: Who is the best-looking person here? @general
+T: Who is the funniest person here? @general
+T: What is the scariest nightmare you’ve ever had? @general
+T: When was the most inappropriate time you farted in public? @general
+T: What is the worst joke you’ve played on someone? @general
+T: What is the worst prank that someone played on you? @general
+T: If you starred in a romance movie, what would it be like? @general
+T: What is the most embarrassing thing you’ve posted on social media? @nsfw
+T: What is your favorite thing that your significant other does for you? @general
+T: Tell us something you don’t want us to know. @general
+T: Have you ever ERP'd? @nsfw
+T: What do you hope your parents never find out about? @general
+T: What is the strangest dream you’ve ever had? @general
+T: Who was the last person you searched on Instagram? @general
+T: How old were you when you had your first kiss? @nsfw
+T: Who was your first kiss? @nsfw
+T: Why did you break up with your last boyfriend/girlfriend? @general
+T: Have you ever shared a secret you weren’t supposed to tell? @general
+T: Who do you like the least in this room? @general
+T: What do you think about Questies? @vrchat
+T: What should VRChat improve? @vrchat
+T: Do you secretly have a crush on someone here? @general
+T: Explain how you got your username. @general
+T: Whats your worst drunk story? @general
+T: Have you ever done drugs? If so what? @general
+T: Fast forward one year. Who here would you most likely still be friends with? @general
+T: Who is the most sassy here? @nsfw
+T: When was the last time you cried? @general
+T: What game does everyone need to play once? @general
+T: Have you ever ERP'd with someone in this room? @nsfw
+T: Have you ever been cheated on or cheated? @general
+T: Reveal your weirdest fetish @nsfw
+T: What celebrity would you hate to see naked? @nsfw
+T: Have you ever tasted your own cum? @nsfw
+T: What is the longest you've gone without showering? @general
+T: What is your worst bad habit? @general
+T: Have you ever been caught in the act? @general
+T: Who would you like to kiss in this room? @nsfw
+T: Do you prefer cats or dogs? @general
+T: Have you ever taken nudes of yourself? @nsfw
+T: What upcoming game are you hyped about? @general
+T: Do you have a NSFW avatar? @vrchat @nsfw
+T: Tell us about your first kiss. @nsfw
+T: When did you loose your virginity? @nsfw
+T: Are you jealous as a BF/GF? @general
+T: What is your favorite anime? @general
+T: What are you drinking right now? @general
+T: Would you go on a VRC date with someone in here? @vrchat
+T: Have you ever had a VRC Wedding? @vrchat
+T: What do you value the most - money, fame, success, friends, family, etc? @general
+T: What's your dream job? @general
+T: What's your biggest regret? @general
+T: Have you ever ghosted someone? If so why? @general
+T: When was the last time you lied? @general
+T: What was your favorite childhood show? @general
+T: Who do you text the most? @general
+T: What's and instant deal breaker in a potential love interest? @general
+T: What's your favorite part of your body? @general
+T: Tell us about your last wet dream. @nsfw
+T: What is your biggest insecurity? @general
+T: Do you pee in the shower? @general
+T: Do you still have feelings for your exes? @general
+T: Have you ever sent a sext? @nsfw
+T: Have you ever had phone sex? @nsfw
+T: What's the weirdest place you have had sex? @nsfw
+T: What gross smell do you actually enjoy? @general
+T: Do you believe in aliens? @general
+T: Where do you see yourself in 10 years? @general
+T: Who would you choose for a threesome in this room? @nsfw
+T: What's one thing you can't live without? @general
+T: What's the worst thing you've ever done? @general
+T: What is the biggest thing you've gotten away with? @general
+T: Why did you break up with your last boyfriend/girlfriend? @general
+T: Do you have a hidden talent? @general
+T: What is the stupidest thing you have ever done? @general
+T: What's the worst thing you've ever said to anyone? @general
+T: Who have you loved but they didn't love you back? @general
+T: Who is the person you most regret kissing? @nsfw
+T: Have you ever eaten ass? @nsfw
+T: What's your biggest fantasy? @general
+T: What is the naughtiest thing you have done in public? @general
+T: Who has the hotest voice here? @general
+T: What's the worst thing you've ever done at work? @general
+T: What's your favorite VRchat world? @vrchat
+T: What's something you're glad your parents doesn't know about you? @general
+T: Who has the worst looking avatar in this room? @vrchat
+T: Name someone you’ve pretended to like but actually couldn’t stand @general
+T: Does size reall matter? @general
+T: Whats your biggest turn on? @nsfw
+T: What's your biggest turn off? @nsfw
+T: How many exes are you still friends with? @general
+T: What's the most annoying thing about yourself? @general
+T: Have you ever woken up not remembering what happened the night before? @general
+T: Have you ever hooked up with someone you didn't know their name? @general
+T: Have you ever lied about your age to buy alcohol? @general
+T: Have you ever had a one night stand? @general
+T: Have you ever gotten into a fight while drinking? @general
+T: Have you ever peed in public while drunk? @general
+T: Have you ever texted an ex while drunk? @general
+T: Have you ever thrown up from drinking too much? @general
+T: Have you ever gotten stuck in a piece of clothing? @general
+T: What is the weirdest dream you have ever had? @general
+T: Have you ever walked into the wrong bathroom by mistake? @general
+T: Have you ever talked to yourself out loud in public? @general
+T: Which player here do you think has the worst taste in music? @general
+T: Who in this group would you never date and why? @general
+T: What is the worst haircut you have ever had? @general
+T: Have you ever fallen asleep in an inappropriate place? @general
+T: What is the most embarrassing thing in your browser history? @nsfw
+T: Ask the person who has known you the longest to share their first impression of you. @general
+T: Have you ever accidentally sent a text message to the wrong person? @general
+T: Who in this group do you think has the most annoying laugh? @general
+T: Have you ever accidentally called someone by the wrong name during sex? @nsfw
+T: What secret about yourself did you tell someone in confidence and then they told a lot of other people? @general
+D: Discord call someone random. @general
+D: Give a one-word “roast” to each other player. @general
+D: Narrate the game in a newscaster voice for three turns. @general
+D: Try to drink a glass of water without using your hands. @nsfw
+D: Sing instead of speaking any time you talk for three turns. @general
+D: Show the group your internet search history. @general
+D: How old are you? Whatever your age is, take that many sips. @general
+D: Read out your last dirty text you sent. @general
+D: Try to juggle 3 things of the group's choice. @general
+D: Repeat everything the person on your right is saying until its your turn again. @general
+D: Do your best sexy crawl. @nsfw
+D: Twerk for a minute. @general
+D: Have the group decide on a dare for you to complete. @general
+D: Hold your drink with two hands for the rest of the evening. @general
+D: Give a personalised insult to everyone in the room. @general
+D: For the next 10 minutes, every time someone asks you something, respond with a bark. @general
+D: Update your VRC Status to "I want to erp, join me". @vrchat @nsfw
+D: Show the group your best dance moves. @general
+D: Choose a drinking buddy. Everytime either of you has to drink, both of you drink. @general
+D: Only whisper when you talk until your next turn. @general
+D: Call someone daddy/mommmy when you talk to them until done playing. @general
+D: Give someone in this room a lapdance. @nsfw
+D: Take a selfie with someone in this room and send it to the person you last messaged and say "We just ERP'd!" @nsfw
+D: Hug someone in this room. @general
+D: Give out 5 sips. @general
+D: Pick a partner. From now on both of you have to do all the dares together. @general
+D: Yell out the first word that comes to your mind. @general
+D: Hold your nose while you sing the chorus of your favorite song. @general
+D: Argue with a wall and pretend like it talks back for one minute. @general
+D: Quack like a duck until your next turn. @general
+D: Call your dad and say you got engaged. @general
+D: Dance for 30 seconds to a Snoop Dogg song. @general
+D: Close your eyes until your next turn. @general
+D: Take a shot. @general
+D: Perform a seductive dance in front of the group. @nsfw
+D: Tell us the one bedtime secret no one knows about you. @general
+D: Sit on a persons lap. Group decides. @general
+D: Give a foot massage to the person on your right. @nsfw
+D: Fuck,Marry,Kill @general
+D: Send the most embarrassing photo on your phone. @nsfw
+D: Read the last message in your dm. @general
+D: Pretend to be the person to your left until your next turn. @general
+D: Do your best impersonation of the person to your right. @general
+D: Crawl around the room. @general
+D: Howl like a wolf at the moon. @general
+D: Curse like a sailor for 30 seconds straight. @general
+D: Invite a random on your friends list. @general
+D: Pick someone to plan a VRC Date with. @vrchat
+D: Group decides your new VRC Status. @vrchat
+D: Kiss someone in the group. @nsfw
+D: Dance like a chicken for the next 30 seconds. @general
+D: Step on a player of your choice. @general
+D: Finish your drink. @general
+D: Do 5 jumping jacks. @general
+D: Let the group decide what to text to the last person you messaged. @general
+D: Change into a meme avatar. @vrchat
+D: Be a players pet until your next turn. Group decides. @general
+D: Most awkward spot where you got a blowjob. @nsfw
+D: Have one player give another player a lap dance. @general
+D: Give {player} your best compliment in a funny accent. @general
+D: Let {player} style your hair however they want for the next 10 minutes. @general
+D: Do your best impression of {player} for 30 seconds. @general
+D: Have a staring contest with {player}. First to blink loses! @general
+D: Let {player} draw something on your face with a washable marker. @general
+D: Perform a 30-second interpretive dance about {player}'s life. @nsfw
+D: Try to make {player} laugh without touching them or saying anything. @general
+D: Act out a scene from a movie with {player}, but don't tell them what movie it is. Let others guess! @general
+D: Swap an item of clothing with {player} for the next 10 minutes. @general
+D: Create and perform a short rap about {player}'s best qualities. @general
+D: Have one player sit on another player's lap for the rest of the game. @general
+D: Get rid of a piece of clothing for 2 rounds. @general
+D: Kiss a person. Long and gentle. @nsfw
+D: Kiss the least attractive player. @nsfw
+D: Lick across a players face. Group Decides. @general
+D: Roast someone in this room. @general
+D: Sniff someone in this room and say "mmm yes mommy/daddy" @general
+D: Send a heart emoji to your crush on discord. @general
+D: In the next 10 minutes, find a way to scare another player and make it a surprise. @general
+D: Do karaoke to a song of the group’s choosing. @general
+D: Find your very first crush on social and DM them. @general
+D: Message an ex of your choice and tell them "I miss you :c" @general
+D: Describe the most attractive quality of every person in the room. @general
+D: Go into 7 minutes in heaven with a player of your choice. @general
+D: Serenade the person left of you. @general
+D: Read alout the most personal text you've sent in recent days. @general
+D: Eat a spoonful of hot sauce. @general
+D: Put an ice cube down your shirt and keep it there for 1 minute. @general
+D: Do an impression of someone in the room. @general
+D: Pick 2 people to become Dare buddies with each other. @general
+D: Pick 2 people to take 2 shots. @general
+D: Change your discord status to "Its my birthday!" for 4 hours. @general
+D: Write a poem about a toilet @general
+D: Tell a story using only three words at a time. @general
+D: Recite the alphabet backwards. @general
+D. Say something dirty to the person on your right. @general
+D: Say something dirty to the person on your left. @general
+D: Get slapped by the person of your choosing. @general
+D: Switch avatars with someone in this room. @vrchat
+D: Call the 3rd recent person in your dm and sing 20 seconds of a song to them. No talking. @general
+D: Whisper a secret to a person of your choice. @general
+D: Say one thing you like about each one player this room. @general
+D: Call your crush and confess your feelings while drinking. @general
+D: Take a shot without using your hands. @general
+T: What's your biggest red flag? @general
+T: If you were a villain, what would be your evil plan? @general
+T: Have you ever stalked someone’s VRChat profile or Discord after meeting them once? @vrchat
+T: What's your guilty pleasure world in VRChat? @vrchat
+T: What’s the most NSFW world you've been to, and what happened? @vrchat @nsfw
+T: Who here do you think flirts the most, and is it effective? @general
+T: What’s your favorite scent on another person? @general
+T: What’s your biggest ick in VRChat or online interactions? @vrchat
+T: What’s something you’ve done in VRC that you’d never do IRL? @vrchat
+T: What’s your toxic trait? @general
+T: If you could be invisible for a day, what’s the first thing you’d do? @general
+T: What’s a song that makes you feel things you don’t want to admit? @general
+T: Who here would survive a zombie apocalypse? Who would die first? @general
+T: What's something that feels illegal but isn't? @general
+T: What's the weirdest compliment you’ve ever received? @general
+D: Let {player} give you a new nickname and use it the rest of the game. @general
+D: Pretend to get married to someone in this room — vows and all. @general
+D: Speak only in pickup lines until your next turn. @general
+D: Talk like an NPC until your next turn. @general
+D: Whisper a compliment into someone’s ear — bonus if they get flustered. @general
+D: Let someone pick a cringe status and keep it for 30 minutes. @general
+D: Pretend you’re drunk texting an ex — act it out. @general
+T: Have you ever tried ERP in a public VRChat world? @nsfw @vrchat
+T: Who in this room would you most like to slow dance with in VRChat? @nsfw @vrchat
+T: Have you ever worn an avatar just to turn someone on? @nsfw @vrchat
+T: What's the most flirty thing someone has done to you in VR? @nsfw @vrchat
+T: Have you ever whispered something naughty to someone in VRChat? @nsfw @vrchat
+T: What's the hottest thing you've seen happen in a VRChat world? @nsfw @vrchat
+T: Have you ever done something NSFW on a VRChat mirror? @nsfw @vrchat
+T: Which VRChat avatar of yours gets the most attention? @nsfw @vrchat
+T: Have you ever taken a spicy VRChat selfie and sent it to someone? @nsfw @vrchat
+T: What's the most suggestive emote you've used in VRChat? @nsfw @vrchat
+T: Have you ever let someone sit on your lap in VR? @nsfw @vrchat
+T: What's the most risqué pickup line you've used in VR? @nsfw @vrchat
+T: Have you ever flirted with someone in VR while voice muted? @nsfw @vrchat
+T: What's the closest you've come to kissing someone in VR? @nsfw @vrchat
+T: Have you ever matched avatars with someone as a couple? @nsfw @vrchat
+T: What's the most romantic or sexual compliment you've received in VR? @nsfw @vrchat
+T: Have you ever led someone into a private world for NSFW reasons? @nsfw @vrchat
+T: Who here do you think has the most seductive avatar? @nsfw @vrchat
+T: What's the longest you've cuddled someone in VRChat? @nsfw @vrchat
+T: Have you ever ERP'd using only emotes and gestures? @nsfw @vrchat
+T: What's the cheekiest thing you've done in front of a VRChat mirror? @nsfw @vrchat
+T: Have you ever roleplayed as a couple in VRChat? @nsfw @vrchat
+T: What's your favorite flirty avatar accessory? @nsfw @vrchat
+T: Have you ever sent a VRChat invite just for something NSFW? @nsfw @vrchat
+T: Have you ever played a drinking game that led to NSFW moments in VR? @nsfw @vrchat
+D: Do a slow dance in VRChat with {player} for 1 minute. @nsfw @vrchat
+D: Whisper something naughty in {player}'s ear in VR. @nsfw @vrchat
+D: Sit on {player}'s lap in VR for the next 2 minutes. @nsfw @vrchat
+D: Flirt with {player} using only emotes for 1 minute. @nsfw @vrchat
+D: Use your most seductive avatar for the next 2 rounds. @nsfw @vrchat
+D: Give {player} a VR cuddle for 30 seconds. @nsfw @vrchat
+D: Do a dance emote facing {player} for 20 seconds. @nsfw @vrchat
+D: Match avatars with {player} for the rest of the game. @nsfw @vrchat
+D: Use a kissing emote with {player} in front of the group. @nsfw @vrchat
+D: Roleplay a cheesy romantic scene with {player} for 1 minute. @nsfw @vrchat
+D: Use your most revealing avatar for the next round. @nsfw @vrchat
+D: Pretend to propose to {player} in VRChat. @nsfw @vrchat
+D: Give {player} a compliment in the sexiest voice you can. @nsfw @vrchat
+D: Do your best seductive dance emote for the group. @nsfw @vrchat
+D: Act out a flirty conversation with {player} using only gestures. @nsfw @vrchat
+D: Change into an avatar you think is the sexiest in your collection. @nsfw @vrchat
+D: Hold {player}'s hand in VR and walk around for 1 minute. @nsfw @vrchat
+D: Pretend to be on a VRChat honeymoon with {player}. @nsfw @vrchat
+D: Playfully chase {player} around the VRChat world for 30 seconds. @nsfw @vrchat
+D: Do a 'follow me' emote and lead {player} somewhere in VR. @nsfw @vrchat
+D: Give {player} a virtual cheek kiss. @nsfw @vrchat
+D: Spend the next round standing very close to {player} in VR. @nsfw @vrchat
+D: Pretend you're both stuck in a romantic movie scene in VR. @nsfw @vrchat
+D: Use an avatar with heart effects for the rest of the game. @nsfw @vrchat
+D: Do a dramatic 'carry' emote with {player} if available. @nsfw @vrchat
+T: What's your favorite VRChat world for relaxing? @general @vrchat
+T: If you could instantly master any VR skill, what would it be? @general @vrchat
+T: What game do you always recommend to new VR players? @general @vrchat
+T: What’s the longest gaming session you’ve had in one go? @general
+T: What's your go-to drink during a VR hangout? @general
+T: Who here would you trust the most in a zombie apocalypse? @general
+T: What’s your favorite drink to have while playing? @general
+T: If you could live in any VRChat world forever, which would it be? @general @vrchat
+T: What's your favorite way to start a party in VR? @general @vrchat
+T: What's the funniest username you've seen in VR? @general @vrchat
+T: What’s your funniest drinking game memory? @general
+T: Who in this room do you think tells the best jokes? @general
+T: What's your go-to dance emote? @general @vrchat
+T: If you could add one feature to VRChat, what would it be? @general @vrchat
+T: What’s your favorite non-alcoholic drink? @general
+T: Who would you pick as your VR adventure partner? @general @vrchat
+T: What's your favorite thing to snack on while gaming? @general
+T: Which VRChat avatar do you use the most? @general @vrchat
+T: If you could teleport anywhere right now, where would you go? @general
+T: What’s your favorite mini-game in VR? @general @vrchat
+T: Have you ever stayed up all night in VR? @general @vrchat
+T: What’s your favorite party world in VRChat? @general @vrchat
+T: What’s your drink of choice for toasting? @general
+T: Who here would be the best bartender? @general
+T: If you could choose any song to play right now, what would it be? @general
+D: Take a sip of your drink. @general
+D: Show your favorite VRChat dance emote. @general @vrchat
+D: Pretend to be a bartender and take orders from the group. @general
+D: Teach someone your favorite VR emote. @general @vrchat
+D: Change to your most colorful avatar. @general @vrchat
+D: Take two sips of your drink. @general
+D: Do your best NPC impression. @general
+D: High-five everyone in the room (in VR or real). @general
+D: Show off your best party trick in VR. @general @vrchat
+D: Change into an avatar chosen by the group. @general @vrchat
+D: Take a sip every time someone says 'VR'. @general
+D: Lead the group in a toast. @general
+D: Pretend to DJ for 30 seconds. @general
+D: Teach someone a new dance move. @general
+D: Wave at everyone in the room dramatically. @general
+D: Choose a fun VRChat world for everyone to visit next. @general @vrchat
+D: Swap drinks with someone for one round (if safe). @general
+D: Show your goofiest avatar walk animation. @general @vrchat
+D: Tell the group your favorite joke. @general
+D: Speak in a silly accent for 1 minute. @general
+D: Pretend to pour everyone a drink in VR. @general @vrchat
+D: Play a 10-second air guitar solo. @general
+D: Show the group your current VRChat home world. @general @vrchat
+D: Dance in place for 20 seconds. @general
+D: Let the group pick the next song in your playlist. @general
