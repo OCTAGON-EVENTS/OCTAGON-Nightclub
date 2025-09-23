@@ -11,7 +11,7 @@ The person across from you takes 1 with you.
 Drink if you’ve ever sent nudes
 Guys drinks
 Group shot
-If you're seated IRL but pretending to be standing in VR — drink.
+Drink if you're seated IRL but pretending to be standing in VR.
 Give out a 'Chug for 5 seconds'
 Drink if you’ve ever fallen asleep in a public world.
 Finish your drink while staring into someone’s eyes.
@@ -19,20 +19,23 @@ Anyone born in the same season as you takes a drink.
 You and your friends drinks x2
 Drink from the opposite hand.
 Give out a shot to someone who’s clearly tipsy.
-If you've ever joined a "sleep world" for more than sleeping — drink.
-Take 5 if you've ever used the app 'Nevermet'
+Drink if you've ever joined a "sleep world" for more than sleeping.
+Take 5 if you've ever used the app "Nevermet"
+Take 5 if you've ever used the app "Flirtual"
 Drink and spin again
-Drink if you are part of The Snooze's Worlds
-Drink if you are part of The OCTAGON Nightclub
-Drink if you are part of The OCTAGON Rave
-Drink if you are part of The OCTAGON Lapdance
-Drink if you are part of The OCTAGON Staff
-Take a drink and say “this is fine” like you're coping.
+Drink if you are part of "The Snooze's Worlds"
+Drink if you are part of the "OCTAGON Nightclub"
+Drink if you are part of the "OCTAGON Rave"
+Drink if you are part of the "OCTAGON Lapdance"
+Drink if you are part of the "OCTAGON Staff"
+Take a drink and say “this is fine” like you're coping. Otherwise drink 10!
+Respawn and walk back, or take 15!
 Pick 2 partners
 Europe drinks
 Drink if you're in full-body right now.
 Answer a truth
 Drink if you are above 180m (6ft)
+Drink if you are below 180m (6ft)
 Pick a Partner
 Give out 2 shots to the ugliest avatar
 Drink if you have ever broke a phone
@@ -49,12 +52,17 @@ Water shot
 Take a sip for each players spin until your next turn
 Drink if your current avatar has jiggle physics.
 Longest username drinks
+Shortest username drinks
 If you ever had a tinder hook up, take 2 drinks
 Everyone drinks except you
+Everyone drinks except you, you drink 5
 Sit in someone's lap or take a drink.
-Bottoms drinks
+Bottoms drink
+Tops drink
 Read out your recent DM
-Brats drinks
+Brats drink
+Change into a meme avatar, or drink 5
+Send an invite: 15 if they join, chug if they don’t. Time ends at your next spin.
 Say something flirty to the person two seats away or drink 2.
 Fake an accent until it is your turn again.
 If you’ve ever pretended to lag to avoid a convo, drink.
@@ -86,23 +94,24 @@ Take a sip for every club world you've visited this week.
 Truth: What’s your wildest VRC moment? Or take 3.
 Guys wearing E-girl avis take a drink
 Give out 10 if your crush is in this world
-Pretend to be someone else’s hype person for 30 seconds — or finish your drink.
+Pretend to be someone else’s hype person for 30 seconds or finish your drink.
 Drink if you’ve ever seen ERP in public and stayed to watch.
 The tallest and shortest avatars take 2 together.
 Challenge someone to rock-paper-scissors. Loser drinks 2.
 Take a shot if you’ve ever cheated on someone
 America Drinks
+Asia Drinks
 Buddy shot x2
 Let someone pick your next avatar or drink
-You’re the host now — make a new rule or finish your drink.
+You’re the host now, make a new rule or finish your drink.
 Drink if you started playing in 2020 take 5 and spin again
 Spin twice. Do both. Or finish your drink.
 Player to your right drinks
-Drink if you're using wine — give out a shot
 Everyone in a eboy avatar drinks
-If your avatar cost more than $25, drink.
+If your avatar cost more than $20, drink.
+If your avatar cost more than $40, drink.
 If you’re in a custom or self-made avatar, take 2 shots.
-Say who here has the best voice — or drink.
+Say who here has the best voice or drink.
 What’s the most embarrassing world you regularly visit? Say it or drink.
 What VRC group do you lowkey hate? Answer or chug
 Drink if you spent over an hour in a mirror today.
@@ -113,16 +122,16 @@ If you're standing IRL, do a little dance while drinking. No dance? Double the d
 Talk in slow motion until your next turn or drink.
 Take a shot for each time you've respawned today.
 If your avatar has particle effects, chug for 5 seconds.
-Take a drink every time someone near you says “bro,” “slay,” or “deadass” — until your next turn.
+Take a drink every time someone near you says “bro,” “slay,” or “deadass” until your next turn.
 Everyone drinks until someone moans. Last to react drinks again.
 Take a shot while doing a sexy dance. If you chicken out = 3.
-Call someone “Daddy/Mommy” unprompted — or take 2.
+Call someone “Daddy/Mommy” unprompted or take 2.
 Shot if you've ever been kicked from a world.
 Take a shot if you’ve ever been catfished in VRChat.
 If you have more than 5 saved avatars, take a shot.
 Take a shot if you’ve ever joined a public ERP world out of curiosity.
 Chug while someone hypes you up. No hype? Chug twice as long.
-Chug until someone says “STOP” — first one to say it takes 2.
+Chug until someone says “STOP” first one to say it takes 2.
 Sip if your current avatar has toggles. One toggle = one sip.
 Take a sip if you've joined a world just to eavesdrop.
 Everyone who didn’t speak this round takes a sip.
@@ -360,6 +369,7 @@ Everyone with floating accessories drinks.
 Drink if you’ve crashed at least once today.
 Give out 3 sips if you have over 300 friends.
 Drink if you’ve joined a world just to check the mirror.
+Anyone with symbols in their name drinks.
 Sip if you’ve switched avatars more than 5 times today.
 Take 2 if you’ve stood in the mirror with randoms in silence.
 Drink if your avatar has animated wings.
@@ -372,6 +382,40 @@ Take 1 sip for every togglable prop on your avatar.
 Drink if your avatar has smoke particle effects.
 Take a shot if you’ve ever been muted for mic spam.
 Drink if your avatar has gloves.
+All men drink.
+All woman drink.
+All furries drink.
+All diverse folks drink.
+Male avatars drink.
+Female avatars drink.
+Diverse avatars drink.
+Furry avatars drink.
+January kids drink 1
+February kids drink 2
+March kids drink 3
+April kids drink 4
+May kids drink 5
+June kids drink 6
+July kids drink 7
+August kids drink 8
+September kids drink 9
+October kids drink 10
+November kids drink 11
+December kids drink 12
+January kids drink 12
+February kids drink 11
+March kids drink 10
+April kids drink 9
+May kids drink 8
+June kids drink 7
+July kids drink 6
+August kids drink 5
+September kids drink 4
+October kids drink 3
+November kids drink 2
+December kids drink 1
+Swap places with the person the arrow is closest to.
+Move to the spot the arrow points to.
 Give out a sip to everyone with the same gender avatar as yours.
 Drink if you’ve been AFK for more than an hour today.
 Take 2 if you’ve been in a VRChat roleplay world this week.
@@ -444,7 +488,6 @@ Drink if your avatar has neon lights.
 Take 3 if you’ve joined a VRChat contest event.
 Drink if your avatar has animated eyes.
 Give 4 sips if you’ve been in VRChat over 24 hours without logging out.
-Drink if you’ve joined a world because you saw a portal there.
 Take a shot if you’ve been to a VRChat movie world.
 Drink if your avatar has moving hair.
 Give 2 sips to people who have matching outfits.
