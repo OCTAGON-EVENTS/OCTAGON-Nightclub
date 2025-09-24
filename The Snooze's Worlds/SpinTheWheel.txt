@@ -252,17 +252,13 @@ Drink if you've visited a mirror world today.
 Drink if you've joined a world just to AFK.
 Take a shot if you've visited a mirror world today.
 Everyone drinks if you've joined a world just to AFK.
-Give out 2 sips if you are wearing an oversized avatar.
 Double sip if you've been in a VRChat wedding.
 Finish your drink if you've been kicked from a world.
 Finish your drink if you've seen ERP in public.
 Take a shot if you are in a friends+ world right now.
 Finish your drink if you have an avatar from Booth.
 Take a drink when you've seen ERP in public.
-Finish your drink if you are wearing an oversized avatar.
 Chug for 5 seconds if your avatar has animal ears.
-Drink if you are wearing an oversized avatar.
-Double sip if you are wearing an oversized avatar.
 Double sip if you've seen ERP in public.
 Finish your drink if your avatar has glowing eyes.
 Finish your drink if you've visited a mirror world today.
@@ -271,7 +267,6 @@ Double sip if you've respawned today.
 Take a drink when you have an avatar from Booth.
 Chug for 5 seconds if you've been in a VRChat wedding.
 Everyone drinks if you are in full-body tracking.
-Everyone drinks if you are wearing an oversized avatar.
 Give out 2 sips if you've respawned today.
 Take a shot if you've been in VRChat more than 5 hours today.
 Chug for 5 seconds if you are in full-body tracking.
@@ -284,7 +279,6 @@ Double sip if you've been in VRChat more than 5 hours today.
 Everyone drinks if you have an avatar from Booth.
 Take a drink when you've been in VRChat more than 5 hours today.
 Chug for 5 seconds if you are in a friends+ world right now.
-Chug for 5 seconds if you are wearing an oversized avatar.
 Take a drink when your avatar has glowing eyes.
 Give out 2 sips if you are in full-body tracking.
 Double sip if you are in full-body tracking.
@@ -347,10 +341,8 @@ Chug for 5 seconds if you've changed avatars in the past 5 minutes.
 Drink if you've been in VRChat more than 5 hours today.
 Double sip if you've visited a mirror world today.
 Drink if you have a friend request pending.
-Take a drink when you are wearing an oversized avatar.
 Take a drink when you've been kicked from a world.
 Give out 2 sips if your avatar has glowing eyes.
-Take a shot if you are wearing an oversized avatar.
 Drink if you've seen ERP in public.
 Finish your drink if you've joined a world just to AFK.
 Take a shot if you have particle effects on your avatar.
