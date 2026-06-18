@@ -1,27 +1,63 @@
 Drink and spin again
 Group Drinks
+Group Drinks 2
+Group Drinks 3
+Group Drinks 4
 Group Drinks 5
 Everyone drinks except you
+Everyone drinks 2 except you
+Everyone drinks 3 except you
+Everyone drinks 4 except you
 Everyone drinks 5 except you
 Everyone drinks except you, you drink 5
+Everyone drinks 2 except you, you drink 7
+Everyone drinks 3 except you, you drink 8
+Everyone drinks 4 except you, you drink 9
 Everyone drinks 5 except you, you drink 10
 Guys Drink
+Guys Drink 2
+Guys Drink 3
+Guys Drink 4
 Guys Drink 5
 Girls Drink
+Girls Drink 2
+Girls Drink 3
+Girls Drink 4
 Girls Drink 5
 Diverse Drink
+Diverse Drink 2
+Diverse Drink 3
+Diverse Drink 4
 Diverse Drink 5
 Your friends drink
+Your friends drink 2
+Your friends drink 3
+Your friends drink 4
 Your friends drink 5
+You and your friends drink
 You and your friends drink 2
+You and your friends drink 3
+You and your friends drink 4
 You and your friends drink 5
 Buddy shot
+2 buddy shots
+3 buddy shots
+4 buddy shots
 5 buddy shots
 Player to your left drinks
+Player to your left drinks 2
+Player to your left drinks 3
+Player to your left drinks 4
 Player to your left drinks 5
 Player to your right drinks
+Player to your right drinks 2
+Player to your right drinks 3
+Player to your right drinks 4
 Player to your right drinks 5
 Player the arrow is pointing to drinks
+Player the arrow is pointing to drinks 2
+Player the arrow is pointing to drinks 3
+Player the arrow is pointing to drinks 4
 Player the arrow is pointing to drinks 5
 Finish 25% of your drink
 Finish 50% of your drink
@@ -30,180 +66,414 @@ Do a dare or drink 10
 Answer a truth or drink 10
 Pick a mate or replace if you already have one
 Gift a shot
+Gift 2 shots
+Gift 3 shots
+Gift 4 shots
 Gift 5 shots
 Chug 5 seconds
-Take a drink for every tracker you’re using.
+Take a drink for every tracker you’re using
 Drink if you’ve ever sent nudes
+Drink 2 if you’ve ever sent nudes
+Drink 3 if you’ve ever sent nudes
+Drink 4 if you’ve ever sent nudes
 Drink 5 if you’ve ever sent nudes
 Gift a shot if you’ve ever sent nudes
+Gift 2 shots if you’ve ever sent nudes
+Gift 3 shots if you’ve ever sent nudes
+Gift 4 shots if you’ve ever sent nudes
 Gift 5 shots if you’ve ever sent nudes
 Take a shot if you've ever used the app "Nevermet"
+Take 2 if you've ever used the app "Nevermet"
+Take 3 if you've ever used the app "Nevermet"
+Take 4 if you've ever used the app "Nevermet"
 Take 5 if you've ever used the app "Nevermet"
 Take a shot if you've ever used the app "Flirtual"
+Take 2 if you've ever used the app "Flirtual"
+Take 3 if you've ever used the app "Flirtual"
+Take 4 if you've ever used the app "Flirtual"
 Take 5 if you've ever used the app "Flirtual"
 Gift a shot if you've ever used the app "Nevermet"
+Gift 2 shots if you've ever used the app "Nevermet"
+Gift 3 shots if you've ever used the app "Nevermet"
+Gift 4 shots if you've ever used the app "Nevermet"
 Gift 5 shots if you've ever used the app "Nevermet"
 Gift a shot if you've ever used the app "Flirtual"
+Gift 2 shots if you've ever used the app "Flirtual"
+Gift 3 shots if you've ever used the app "Flirtual"
+Gift 4 shots if you've ever used the app "Flirtual"
 Gift 5 shots if you've ever used the app "Flirtual"
 Drink if you are part of "The Snooze's Worlds"
-Drink if you are part of the "OCTAGON Nightclub"
-Drink if you are part of the "OCTAGON Rave"
-Drink if you are part of the "OCTAGON Lapdance"
-Drink if you are part of the "OCTAGON Staff"
+Drink 2 if you are part of "The Snooze's Worlds"
+Drink 3 if you are part of "The Snooze's Worlds"
+Drink 4 if you are part of "The Snooze's Worlds"
 Drink 5 if you are part of "The Snooze's Worlds"
+Drink if you are part of the "OCTAGON Nightclub"
+Drink 2 if you are part of the "OCTAGON Nightclub"
+Drink 3 if you are part of the "OCTAGON Nightclub"
+Drink 4 if you are part of the "OCTAGON Nightclub"
 Drink 5 if you are part of the "OCTAGON Nightclub"
+Drink if you are part of the "OCTAGON Rave"
+Drink 2 if you are part of the "OCTAGON Rave"
+Drink 3 if you are part of the "OCTAGON Rave"
+Drink 4 if you are part of the "OCTAGON Rave"
 Drink 5 if you are part of the "OCTAGON Rave"
+Drink if you are part of the "OCTAGON Lapdance"
+Drink 2 if you are part of the "OCTAGON Lapdance"
+Drink 3 if you are part of the "OCTAGON Lapdance"
+Drink 4 if you are part of the "OCTAGON Lapdance"
 Drink 5 if you are part of the "OCTAGON Lapdance"
+Drink if you are part of the "OCTAGON Staff"
+Drink 2 if you are part of the "OCTAGON Staff"
+Drink 3 if you are part of the "OCTAGON Staff"
+Drink 4 if you are part of the "OCTAGON Staff"
 Drink 5 if you are part of the "OCTAGON Staff"
 Gift a shot if you are part of "The Snooze's Worlds"
-Gift a shot if you are part of the "OCTAGON Nightclub"
-Gift a shot if you are part of the "OCTAGON Rave"
-Gift a shot if you are part of the "OCTAGON Lapdance"
-Gift a shot if you are part of the "OCTAGON Staff"
+Gift 2 shots if you are part of "The Snooze's Worlds"
+Gift 3 shots if you are part of "The Snooze's Worlds"
+Gift 4 shots if you are part of "The Snooze's Worlds"
 Gift 5 shots if you are part of "The Snooze's Worlds"
+Gift a shot if you are part of the "OCTAGON Nightclub"
+Gift 2 shots if you are part of the "OCTAGON Nightclub"
+Gift 3 shots if you are part of the "OCTAGON Nightclub"
+Gift 4 shots if you are part of the "OCTAGON Nightclub"
 Gift 5 shots if you are part of the "OCTAGON Nightclub"
+Gift a shot if you are part of the "OCTAGON Rave"
+Gift 2 shots if you are part of the "OCTAGON Rave"
+Gift 3 shots if you are part of the "OCTAGON Rave"
+Gift 4 shots if you are part of the "OCTAGON Rave"
 Gift 5 shots if you are part of the "OCTAGON Rave"
+Gift a shot if you are part of the "OCTAGON Lapdance"
+Gift 2 shots if you are part of the "OCTAGON Lapdance"
+Gift 3 shots if you are part of the "OCTAGON Lapdance"
+Gift 4 shots if you are part of the "OCTAGON Lapdance"
 Gift 5 shots if you are part of the "OCTAGON Lapdance"
+Gift a shot if you are part of the "OCTAGON Staff"
+Gift 2 shots if you are part of the "OCTAGON Staff"
+Gift 3 shots if you are part of the "OCTAGON Staff"
+Gift 4 shots if you are part of the "OCTAGON Staff"
 Gift 5 shots if you are part of the "OCTAGON Staff"
 Respawn and walk back, or take 15. No teleporting!
 Asians drink
+Asians drink 2
+Asians drink 3
+Asians drink 4
 Asians drink 5
 Africans drink 
+Africans drink 2
+Africans drink 3
+Africans drink 4
 Africans drink 5
 North & South Americans drink
+North & South Americans drink 2
+North & South Americans drink 3
+North & South Americans drink 4
 North & South Americans drink 5
 Europeans drink
+Europeans drink 2
+Europeans drink 3
+Europeans drink 4
 Europeans drink 5
 Oceanians drink
+Oceanians drink 2
+Oceanians drink 3
+Oceanians drink 4
 Oceanians drink 5
 Drink if you're in full-body
+Drink 2 if you're in full-body
+Drink 3 if you're in full-body
+Drink 4 if you're in full-body
 Drink 5 if you're in full-body
 Gift a shot if you're in full-body
+Gift 2 shots if you're in full-body
+Gift 3 shots if you're in full-body
+Gift 4 shots if you're in full-body
 Gift 5 shots if you're in full-body
 Drink if you are above 180m (6ft)
+Drink 2 if you are above 180m (6ft)
+Drink 3 if you are above 180m (6ft)
+Drink 4 if you are above 180m (6ft)
 Drink 5 if you are above 180m (6ft)
 Gift a shot if you are above 180m (6ft)
+Gift 2 shots if you are above 180m (6ft)
+Gift 3 shots if you are above 180m (6ft)
+Gift 4 shots if you are above 180m (6ft)
 Gift 5 shots if you are above 180m (6ft)
 Drink if you are below 180m (6ft)
+Drink 2 if you are below 180m (6ft)
+Drink 3 if you are below 180m (6ft)
+Drink 4 if you are below 180m (6ft)
 Drink 5 if you are below 180m (6ft)
 Gift a shot if you are below 180m (6ft)
+Gift 2 shots if you are below 180m (6ft)
+Gift 3 shots if you are below 180m (6ft)
+Gift 4 shots if you are below 180m (6ft)
 Gift 5 shots if you are below 180m (6ft)
 Drink if you have ever been arrested
+Drink 2 if you have ever been arrested
+Drink 3 if you have ever been arrested
+Drink 4 if you have ever been arrested
 Drink 5 if you have ever been arrested
 Gift a shot if you have ever been arrested
+Gift 2 shots if you have ever been arrested
+Gift 3 shots if you have ever been arrested
+Gift 4 shots if you have ever been arrested
 Gift 5 shots if you have ever been arrested
 Drink if you have ever met up with someone from VRChat
+Drink 2 if you have ever met up with someone from VRChat
+Drink 3 if you have ever met up with someone from VRChat
+Drink 4 if you have ever met up with someone from VRChat
 Drink 5 if you have ever met up with someone from VRChat
 Gift a shot if you have ever met up with someone from VRChat
+Gift 2 shots if you have ever met up with someone from VRChat
+Gift 3 shots if you have ever met up with someone from VRChat
+Gift 4 shots if you have ever met up with someone from VRChat
 Gift 5 shots if you have ever met up with someone from VRChat
 Water shot
 Drink if your current avatar has jiggle physics
+Drink 2 if your current avatar has jiggle physics
+Drink 3 if your current avatar has jiggle physics
+Drink 4 if your current avatar has jiggle physics
 Drink 5 if your current avatar has jiggle physics
 Gift a shot if your current avatar has jiggle physics
+Gift 2 shots if your current avatar has jiggle physics
+Gift 3 shots if your current avatar has jiggle physics
+Gift 4 shots if your current avatar has jiggle physics
 Gift 5 shots if your current avatar has jiggle physics
 Longest username drinks
+Longest username drinks 2
+Longest username drinks 3
+Longest username drinks 4
 Longest username drinks 5
 Longest username gifts a drink
+Longest username gifts 2 drinks
+Longest username gifts 3 drinks
+Longest username gifts 4 drinks
 Longest username gifts 5 drinks
 Shortest username drinks
+Shortest username drinks 2
+Shortest username drinks 3
+Shortest username drinks 4
 Shortest username drinks 5
 Shortest username gifts a drink
+Shortest username gifts 2 drinks
+Shortest username gifts 3 drinks
+Shortest username gifts 4 drinks
 Shortest username gifts 5 drinks
 Change into a meme avatar, or drink 10
 Take a shot with the person you know least
+Take 2 shots with the person you know least
+Take 3 shots with the person you know least
+Take 4 shots with the person you know least
 Take 5 shots with the person you know least
 Drink if you are under 20
+Drink 2 if you are under 20
+Drink 3 if you are under 20
+Drink 4 if you are under 20
 Drink 5 if you are under 20
 Gift a shot if you are under 20
+Gift 2 shots if you are under 20
+Gift 3 shots if you are under 20
+Gift 4 shots if you are under 20
 Gift 5 shots if you are under 20
 Drink if you are under 25
+Drink 2 if you are under 25
+Drink 3 if you are under 25
+Drink 4 if you are under 25
 Drink 5 if you are under 25
 Gift a shot if you are under 25
+Gift 2 shots if you are under 25
+Gift 3 shots if you are under 25
+Gift 4 shots if you are under 25
 Gift 5 shots if you are under 25
 Drink if you are under 30
+Drink 2 if you are under 30
+Drink 3 if you are under 30
+Drink 4 if you are under 30
 Drink 5 if you are under 30
 Gift a shot if you are under 30
+Gift 2 shots if you are under 30
+Gift 3 shots if you are under 30
+Gift 4 shots if you are under 30
 Gift 5 shots if you are under 30
 Drink if you are under 35
+Drink 2 if you are under 35
+Drink 3 if you are under 35
+Drink 4 if you are under 35
 Drink 5 if you are under 35
 Gift a shot if you are under 35
+Gift 2 shots if you are under 35
+Gift 3 shots if you are under 35
+Gift 4 shots if you are under 35
 Gift 5 shots if you are under 35
 Everyone in a egirl avatar drinks
+Everyone in a egirl avatar drinks 2
+Everyone in a egirl avatar drinks 3
+Everyone in a egirl avatar drinks 4
 Everyone in a egirl avatar drinks 5
 Everyone in a eboy avatar drinks
+Everyone in a eboy avatar drinks 2
+Everyone in a eboy avatar drinks 3
+Everyone in a eboy avatar drinks 4
 Everyone in a eboy avatar drinks 5
 Last person to put their hand up drinks 10
 Challenge someone to rock-paper-scissors. Loser drinks 2
 Challenge someone to rock-paper-scissors. Loser drinks 5
 If your avatar is public, drink
+If your avatar is public, drink 2
+If your avatar is public, drink 3
+If your avatar is public, drink 4
 If your avatar is public, drink 5
 If your avatar is public, gift a shot
+If your avatar is public, gift 2 shots
+If your avatar is public, gift 3 shots
+If your avatar is public, gift 4 shots
 If your avatar is public, gift 5 shots
 If your avatar cost more than $20, drink
+If your avatar cost more than $20, drink 2
+If your avatar cost more than $20, drink 3
+If your avatar cost more than $20, drink 4
 If your avatar cost more than $20, drink 5
 If your avatar cost more than $20, gift a shot
+If your avatar cost more than $20, gift 2 shots
+If your avatar cost more than $20, gift 3 shots
+If your avatar cost more than $20, gift 4 shots
 If your avatar cost more than $20, gift 5 shots
 If your avatar cost more than $40, drink
+If your avatar cost more than $40, drink 2
+If your avatar cost more than $40, drink 3
+If your avatar cost more than $40, drink 4
 If your avatar cost more than $40, drink 5
 If your avatar cost more than $40, gift a shot
+If your avatar cost more than $40, gift 2 shots
+If your avatar cost more than $40, gift 3 shots
+If your avatar cost more than $40, gift 4 shots
 If your avatar cost more than $40, gift 5 shots
 If you’re in a custom or self-made avatar, take a shots
+If you’re in a custom or self-made avatar, take 2 shots
+If you’re in a custom or self-made avatar, take 3 shots
+If you’re in a custom or self-made avatar, take 4 shots
 If you’re in a custom or self-made avatar, take 5 shots
 If you’re in a custom or self-made avatar, gift a shot
+If you’re in a custom or self-made avatar, gift 2 shots
+If you’re in a custom or self-made avatar, gift 3 shots
+If you’re in a custom or self-made avatar, gift 4 shots
 If you’re in a custom or self-made avatar, gift 5 shots
-Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink.
-Take a shot if you've ever been kicked from a world.
-Take 5 shots if you've ever been kicked from a world.
-Gift a shot if you've ever been kicked from a world.
-Gift 5 shots if you've ever been kicked from a world.
+Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
+Take a shot if you've ever been kicked from a world
+Take 5 shots if you've ever been kicked from a world
+Gift a shot if you've ever been kicked from a world
+Gift 5 shots if you've ever been kicked from a world
 Drink if your current avatar height is taller than 2m (6.5ft)
 Drink 5 if your current avatar height is taller than 2m (6.5ft)
 Gift a shot if your current avatar height is taller than 2m (6.5ft)
 Gift 5 shots if your current avatar height is taller than 2m (6.5ft)
 If your friends list has over 500 people, drink
+If your friends list has over 500 people, drink 2
+If your friends list has over 500 people, drink 3
+If your friends list has over 500 people, drink 4
 If your friends list has over 500 people, drink 5
 If your friends list has over 500 people, gift a shot
+If your friends list has over 500 people, gift 2 shots
+If your friends list has over 500 people, gift 3 shots
+If your friends list has over 500 people, gift 4 shots
 If your friends list has over 500 people, gift 5 shots
 Trusted Users drink
+Trusted Users drink 2
+Trusted Users drink 3
+Trusted Users drink 4
 Trusted Users drink 5
 Trusted Users gift a shot
+Trusted Users gift 2 shots
+Trusted Users gift 3 shots
+Trusted Users gift 4 shots
 Trusted Users gift 5 shots
 Drink if your name has numbers in it
+Drink 2 if your name has numbers in it
+Drink 3 if your name has numbers in it
+Drink 4 if your name has numbers in it
 Drink 5 if your name has numbers in it
 Gift a shot if your name has numbers in it
+Gift 2 shots if your name has numbers in it
+Gift 3 shots if your name has numbers in it
+Gift 4 shots if your name has numbers in it
 Gift 5 shots if your name has numbers in it
 Drink if your name has no numbers in it
+Drink 2 if your name has no numbers in it
+Drink 3 if your name has no numbers in it
+Drink 4 if your name has no numbers in it
 Drink 5 if your name has no numbers in it
 Gift a shot if your name has no numbers in it
+Gift 2 shots if your name has no numbers in it
+Gift 3 shots if your name has no numbers in it
+Gift 4 shots if your name has no numbers in it
 Gift 5 shots if your name has no numbers in it
 Drink if your name has symbols in it
+Drink 2 if your name has symbols in it
+Drink 3 if your name has symbols in it
+Drink 4 if your name has symbols in it
 Drink 5 if your name has symbols in it
 Gift a shot if your name has symbols in it
+Gift 2 shots if your name has symbols in it
+Gift 3 shots if your name has symbols in it
+Gift 4 shots if your name has symbols in it
 Gift 5 shots if your name has symbols in it
 Drink if your name has no symbols in it
+Drink 2 if your name has no symbols in it
+Drink 3 if your name has no symbols in it
+Drink 4 if your name has no symbols in it
 Drink 5 if your name has no symbols in it
 Gift a shot if your name has no symbols in it
+Gift 2 shots if your name has no symbols in it
+Gift 3 shots if your name has no symbols in it
+Gift 4 shots if your name has no symbols in it
 Gift 5 shots if your name has no symbols in it
 Drink if you’ve got a friend request pending right now
+Drink 2 if you’ve got a friend request pending right now
+Drink 3 if you’ve got a friend request pending right now
+Drink 4 if you’ve got a friend request pending right now
 Drink 5 if you’ve got a friend request pending right now
 Take a shot for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
 Give out a shot for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
 Everyone wearing black in-game drinks
+Everyone wearing black in-game drinks 2
+Everyone wearing black in-game drinks 3
+Everyone wearing black in-game drinks 4
 Everyone wearing black in-game drinks 5
 Drink if you’ve ever joined a VRChat meetup event
-Drink 5 if you’ve ever joined a VRChat meetup event.
+Drink 2 if you’ve ever joined a VRChat meetup event
+Drink 3 if you’ve ever joined a VRChat meetup event
+Drink 4 if you’ve ever joined a VRChat meetup event
+Drink 5 if you’ve ever joined a VRChat meetup event
 Gift a shot if you’ve ever joined a VRChat meetup event
-Gift 5 shots if you’ve ever joined a VRChat meetup event.
-Finish your drink if you are in a group hosted instance right now.
+Gift 2 shots if you’ve ever joined a VRChat meetup event
+Gift 3 shots if you’ve ever joined a VRChat meetup event
+Gift 4 shots if you’ve ever joined a VRChat meetup event
+Gift 5 shots if you’ve ever joined a VRChat meetup event
+Finish your drink if you are in a group hosted instance right now
 Take a shot if you've respawned today
+Take 2 shots if you've respawned today
+Take 3 shots if you've respawned today
+Take 4 shots if you've respawned today
 Take 5 shots if you've respawned today
 Male avatars drink
+Male avatars drink 2
+Male avatars drink 3
+Male avatars drink 4
 Male avatars drink 5
 Female avatars drink
+Female avatars drink 2
+Female avatars drink 3
+Female avatars drink 4
 Female avatars drink 5
 Diverse avatars drink
+Diverse avatars drink 2
+Diverse avatars drink 3
+Diverse avatars drink 4
 Diverse avatars drink 5
 Furry avatars drink
+Furry avatars drink 2
+Furry avatars drink 3
+Furry avatars drink 4
 Furry avatars drink 5
 January kids drink 1
 February kids drink 2
