@@ -1,4 +1,8 @@
 Drink and spin again
+Drink and spin again
+Drink and spin again
+Drink and spin again
+Drink and spin again
 Group Drinks
 Group Drinks 2
 Group Drinks 3
@@ -60,10 +64,34 @@ Player the arrow is pointing to drinks 3
 Player the arrow is pointing to drinks 4
 Player the arrow is pointing to drinks 5
 Finish 25% of your drink
+Finish 25% of your drink
+Finish 25% of your drink
+Finish 25% of your drink
+Finish 25% of your drink
+Finish 50% of your drink
+Finish 50% of your drink
+Finish 50% of your drink
+Finish 50% of your drink
 Finish 50% of your drink
 Finish your drink
+Finish your drink
+Finish your drink
+Finish your drink
+Finish your drink
+Do a dare or drink 6
+Do a dare or drink 7
+Do a dare or drink 8
+Do a dare or drink 9
 Do a dare or drink 10
+Answer a truth or drink 6
+Answer a truth or drink 7
+Answer a truth or drink 8
+Answer a truth or drink 9
 Answer a truth or drink 10
+Pick a mate or replace if you already have one
+Pick a mate or replace if you already have one
+Pick a mate or replace if you already have one
+Pick a mate or replace if you already have one
 Pick a mate or replace if you already have one
 Gift a shot
 Gift 2 shots
@@ -71,6 +99,14 @@ Gift 3 shots
 Gift 4 shots
 Gift 5 shots
 Chug 5 seconds
+Chug 5 seconds
+Chug 5 seconds
+Chug 5 seconds
+Chug 5 seconds
+Take a drink for every tracker you’re using
+Take a drink for every tracker you’re using
+Take a drink for every tracker you’re using
+Take a drink for every tracker you’re using
 Take a drink for every tracker you’re using
 Drink if you’ve ever sent nudes
 Drink 2 if you’ve ever sent nudes
@@ -153,6 +189,10 @@ Gift 3 shots if you are part of the "OCTAGON Staff"
 Gift 4 shots if you are part of the "OCTAGON Staff"
 Gift 5 shots if you are part of the "OCTAGON Staff"
 Respawn and walk back, or take 15. No teleporting!
+Respawn and walk back, or take 15. No teleporting!
+Respawn and walk back, or take 15. No teleporting!
+Respawn and walk back, or take 15. No teleporting!
+Respawn and walk back, or take 15. No teleporting!
 Asians drink
 Asians drink 2
 Asians drink 3
@@ -229,6 +269,15 @@ Gift 3 shots if you have ever met up with someone from VRChat
 Gift 4 shots if you have ever met up with someone from VRChat
 Gift 5 shots if you have ever met up with someone from VRChat
 Water shot
+Water shot
+Water shot
+Water shot
+Water shot
+Drink an actual shot
+Drink an actual shot
+Drink an actual shot
+Drink an actual shot
+Drink an actual shot
 Drink if your current avatar has jiggle physics
 Drink 2 if your current avatar has jiggle physics
 Drink 3 if your current avatar has jiggle physics
@@ -259,6 +308,10 @@ Shortest username gifts 2 drinks
 Shortest username gifts 3 drinks
 Shortest username gifts 4 drinks
 Shortest username gifts 5 drinks
+Change into a meme avatar, or drink 6
+Change into a meme avatar, or drink 7
+Change into a meme avatar, or drink 8
+Change into a meme avatar, or drink 9
 Change into a meme avatar, or drink 10
 Take a shot with the person you know least
 Take 2 shots with the person you know least
@@ -315,9 +368,21 @@ Everyone in a eboy avatar drinks 2
 Everyone in a eboy avatar drinks 3
 Everyone in a eboy avatar drinks 4
 Everyone in a eboy avatar drinks 5
+Last person to put their hand up drinks 6
+Last person to put their hand up drinks 7
+Last person to put their hand up drinks 8
+Last person to put their hand up drinks 9
 Last person to put their hand up drinks 10
+Challenge someone to rock-paper-scissors. Loser drinks
 Challenge someone to rock-paper-scissors. Loser drinks 2
+Challenge someone to rock-paper-scissors. Loser drinks 3
+Challenge someone to rock-paper-scissors. Loser drinks 4
 Challenge someone to rock-paper-scissors. Loser drinks 5
+Challenge someone to rock-paper-scissors. Loser drinks 6
+Challenge someone to rock-paper-scissors. Loser drinks 7
+Challenge someone to rock-paper-scissors. Loser drinks 8
+Challenge someone to rock-paper-scissors. Loser drinks 9
+Challenge someone to rock-paper-scissors. Loser drinks 10
 If your avatar is public, drink
 If your avatar is public, drink 2
 If your avatar is public, drink 3
@@ -359,13 +424,29 @@ If you’re in a custom or self-made avatar, gift 3 shots
 If you’re in a custom or self-made avatar, gift 4 shots
 If you’re in a custom or self-made avatar, gift 5 shots
 Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
+Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
+Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
+Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
+Take a sip for each toggleable item on your avatar. If it's more then 10, finish your drink
 Take a shot if you've ever been kicked from a world
+Take 2 shots if you've ever been kicked from a world
+Take 3 shots if you've ever been kicked from a world
+Take 4 shots if you've ever been kicked from a world
 Take 5 shots if you've ever been kicked from a world
 Gift a shot if you've ever been kicked from a world
+Gift 2 shots if you've ever been kicked from a world
+Gift 3 shots if you've ever been kicked from a world
+Gift 4 shots if you've ever been kicked from a world
 Gift 5 shots if you've ever been kicked from a world
 Drink if your current avatar height is taller than 2m (6.5ft)
+Drink 2 if your current avatar height is taller than 2m (6.5ft)
+Drink 3 if your current avatar height is taller than 2m (6.5ft)
+Drink 4 if your current avatar height is taller than 2m (6.5ft)
 Drink 5 if your current avatar height is taller than 2m (6.5ft)
 Gift a shot if your current avatar height is taller than 2m (6.5ft)
+Gift 2 shots if your current avatar height is taller than 2m (6.5ft)
+Gift 3 shots if your current avatar height is taller than 2m (6.5ft)
+Gift 4 shots if your current avatar height is taller than 2m (6.5ft)
 Gift 5 shots if your current avatar height is taller than 2m (6.5ft)
 If your friends list has over 500 people, drink
 If your friends list has over 500 people, drink 2
@@ -433,7 +514,15 @@ Drink 3 if you’ve got a friend request pending right now
 Drink 4 if you’ve got a friend request pending right now
 Drink 5 if you’ve got a friend request pending right now
 Take a shot for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Take 2 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Take 3 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Take 4 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Take 5 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
 Give out a shot for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Give out 2 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Give out 3 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Give out 4 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
+Give out 5 shots for every platform you’ve played VRChat on (Quest, PCVR, Desktop, etc.)
 Everyone wearing black in-game drinks
 Everyone wearing black in-game drinks 2
 Everyone wearing black in-game drinks 3
@@ -449,6 +538,10 @@ Gift 2 shots if you’ve ever joined a VRChat meetup event
 Gift 3 shots if you’ve ever joined a VRChat meetup event
 Gift 4 shots if you’ve ever joined a VRChat meetup event
 Gift 5 shots if you’ve ever joined a VRChat meetup event
+Finish your drink if you are in a group hosted instance right now
+Finish your drink if you are in a group hosted instance right now
+Finish your drink if you are in a group hosted instance right now
+Finish your drink if you are in a group hosted instance right now
 Finish your drink if you are in a group hosted instance right now
 Take a shot if you've respawned today
 Take 2 shots if you've respawned today
@@ -500,4 +593,12 @@ October kids drink 3
 November kids drink 2
 December kids drink 1
 Swap places with the person the arrow is closest to
+Swap places with the person the arrow is closest to
+Swap places with the person the arrow is closest to
+Swap places with the person the arrow is closest to
+Swap places with the person the arrow is closest to
+Move to the spot the arrow points to
+Move to the spot the arrow points to
+Move to the spot the arrow points to
+Move to the spot the arrow points to
 Move to the spot the arrow points to
