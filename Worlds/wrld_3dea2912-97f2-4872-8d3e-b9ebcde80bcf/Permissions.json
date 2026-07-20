@@ -1,30 +1,36 @@
 {
-  "staffplus": ["OCTAGON Events", "Shethzor", "The Snooze", "Vánille"],
-  "staff": ["AniFan121", "LovelyTheresa"],
+  "staffplus": [
+    "OCTAGON Events",
+    "Shethzor",
+    "The Snooze",
+    "AniFan121",
+    "LovelyTheresa"
+  ],
+  "staff": [],
   "vipplus": [
     "Angryyyy",
-    "FoyxPireta",
-    "Hiiemii",
     "Jayden20000",
-    "Kٖyu",
     "LittleDiamond",
-    "ShōgunWasHere",
     "TANZVERBOT",
     "",
     "FaxxeLeL",
     "",
-    "DJ DiFlux"
+    "Hiiemii",
+    "Kٖyu",
+    "ShōgunWasHere"
   ],
   "vip": [
+    "_Saidai_",
+    "",
     "AniFan121",
-    "ƁƳ§çŕæźƴ",
     "DΣNN1Z",
+    "FoyxPireta",
     "just_Tank_it",
     "༒ Legend_K༒",
     "LovelyTheresa",
-    "sfprojumper",
-    "Sperrow",
+    "Vánille",
+    "",
     "CuzImMark",
-    "_Saidai_"
+    "Sperrow"
   ]
 }
